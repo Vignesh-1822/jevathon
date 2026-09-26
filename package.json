@@ -1,0 +1,19 @@
+{
+  "name": "jev-goal",
+  "version": "0.1.0",
+  "description": "An independent Jev-powered drift/adaptation judge and closure-claim grader for autonomous multi-agent systems. Built for Jevathon (TypeSafe AI x The AI Collective, Sept 26 2026).",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "jev": "./jev.mjs",
+    "jev-goal": "./jev-goal.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "selftest": "node jev.mjs selftest && node jev-goal.mjs selftest",
+    "demo:build": "node demo/build-fixtures.mjs",
+    "demo:judge": "node jev-goal.mjs judge --all"
+  }
+}

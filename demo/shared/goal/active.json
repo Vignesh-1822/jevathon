@@ -1,0 +1,29 @@
+{
+  "slug": "jevathon-demo",
+  "lanes": {
+    "aaaaaaaa-0000-4000-8000-000000000001": {
+      "role": "lane A",
+      "charter": "own the A slice: build it for real and prove it under success and failure"
+    },
+    "bbbbbbbb-0000-4000-8000-000000000002": {
+      "role": "lane B",
+      "charter": "own the B slice: build it for real and prove it under success and failure"
+    },
+    "cccccccc-0000-4000-8000-000000000003": {
+      "role": "lane C",
+      "charter": "own the C slice: build it for real and prove it under success and failure"
+    },
+    "dddddddd-0000-4000-8000-000000000004": {
+      "role": "lane D",
+      "charter": "own the D slice: build it for real and prove it under success and failure"
+    },
+    "eeeeeeee-0000-4000-8000-000000000005": {
+      "role": "lane E",
+      "charter": "own the E slice: build it for real and prove it under success and failure"
+    },
+    "ffffffff-0000-4000-8000-000000000006": {
+      "role": "lane F",
+      "charter": "own the F slice: build it for real and prove it under success and failure"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "LO-1",
+      "title": "payment settlement service",
+      "proof_level": "implemented",
+      "responsible_lanes": [
+        {
+          "id": "aaaaaaaa"
+        }
+      ]
+    },
+    {
+      "id": "LO-2",
+      "title": "data adapter",
+      "proof_level": "specified",
+      "responsible_lanes": [
+        {
+          "id": "bbbbbbbb"
+        }
+      ]
+    },
+    {
+      "id": "MS-01",
+      "title": "workflow compiler",
+      "proof_level": "specified",
+      "responsible_lanes": [
+        {
+          "id": "UNOWNED"
+        }
+      ]
+    }
+  ]
+}

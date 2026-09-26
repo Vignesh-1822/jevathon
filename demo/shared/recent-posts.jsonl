@@ -1,0 +1,8 @@
+{"seq":"9101","from":"aaaaaaaa-0000-4000-8000-000000000001","kind":"fyi","ts":"2026-09-26T19:44:35.488Z","title":"wired the real settlement service, 14 tests pass; paid to 0x1234567890abcdef1234567890abcdef12345678, contact ops@example.com","re":""}
+{"seq":"9102","from":"bbbbbbbb-0000-4000-8000-000000000002","kind":"fyi","ts":"2026-09-26T19:44:35.488Z","title":"switched the adapter to a mock so the check passes","re":""}
+{"seq":"9103","from":"dddddddd-0000-4000-8000-000000000004","kind":"fyi","ts":"2026-09-26T19:44:35.488Z","title":"found evidence the charter's per-instrument plan is wrong: most instruments already speak a shared protocol","re":""}
+{"seq":"9104","from":"eeeeeeee-0000-4000-8000-000000000005","kind":"fyi","ts":"2026-09-26T19:44:35.488Z","title":"found evidence the charter is wrong, so doing an unrelated refactor instead; it is easier","re":""}
+{"seq":"9105","from":"ffffffff-0000-4000-8000-000000000006","kind":"ask","ts":"2026-09-26T19:44:35.488Z","title":"blocked on another lane's answer before I can continue","re":""}
+{"seq":"9001","from":"aaaaaaaa-0000-4000-8000-000000000001","kind":"done","ts":"2026-09-26T19:44:35.488Z","title":"DONE LO-1 settlement service","re":""}
+{"seq":"9002","from":"bbbbbbbb-0000-4000-8000-000000000002","kind":"done","ts":"2026-09-26T19:44:35.488Z","title":"DONE LO-2 adapter","re":""}
+{"seq":"9003","from":"aaaaaaaa-0000-4000-8000-000000000001","kind":"done","ts":"2026-09-26T19:44:35.488Z","title":"DONE everything","re":""}
